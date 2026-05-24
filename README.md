@@ -74,7 +74,7 @@
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo7ameda2war&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1B4F72&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mohamed's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo7-a2&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1B4F72&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mohamed's Github Stats">
 
 ---
 
