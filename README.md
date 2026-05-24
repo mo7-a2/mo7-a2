@@ -80,8 +80,10 @@
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/mohamed-a2war" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/mo7-a2" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:mo7ameda2war@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:mo7amed-anwar-rasi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-%230078D4.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 
 ---
 
