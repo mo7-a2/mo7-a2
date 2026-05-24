@@ -21,7 +21,6 @@
 - 🛡️ Interested in **Penetration Testing**, **Incident Response**, and **CTF Challenges**
 - 💬 Ask me about **Linux hardening**, **networking basics**, or **getting started in Cybersecurity**
 - 📫 Reach me at: **mo7ameda2war@gmail.com**
-- ⚡ Fun fact: I automate boring stuff with Bash before breakfast ☕
 
 ---
 
