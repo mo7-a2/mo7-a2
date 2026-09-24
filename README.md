@@ -6,7 +6,7 @@
 
 # 👨‍💻 Mohamed Anwar Abdelhay Mahdy
 
-🎓 **Cybersecurity Engineering Student** @ Egyptian-Russian University (3rd Year — Class of 2027)  
+🎓 **Cybersecurity Engineering Student** @ Egyptian-Russian University (4rd Year — Class of 2027)  
 🔐 Passionate about **Linux Administration · Network Security · Cloud Technologies**  
 🌍 Based in Egypt
 
