@@ -6,7 +6,7 @@
 
 # 👨‍💻 Mohamed Anwar Abdelhay Mahdy
 <div align="center">
-  <img src="./assets/dark-aura.gif" width="350" alt="Mohamed Dark Aura Animation">
+  <img src="C:\Users\Mohamed\Downloads" width="350" alt="Mohamed Dark Aura Animation">
 </div>
 🎓 **Cybersecurity Engineering Student** @ Egyptian-Russian University (4rd Year — Class of 2027)  
 🔐 Passionate about **Linux Administration · Network Security · Cloud Technologies**  
